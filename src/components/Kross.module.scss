@@ -1,0 +1,30 @@
+.kross {
+    display: flex;
+    align-items:center ;
+    justify-content: space-between;
+
+    h1 {
+        font-family: 'Inter',sans-serif;
+        font-size: 40px;
+    }
+    img {
+        position: relative;
+        left: 440px;
+        cursor: pointer;
+    }
+
+    input {
+        border: 1px solid #F3F3F3;
+        border-radius: 10px;
+        padding: 12px 50px;
+        color: #C4C4C4; 
+        transition: .8s;
+
+        &:focus {
+            border: 1px solid  rgb(121, 121, 121);
+            width: 200px;
+           
+        }     
+    }
+
+}

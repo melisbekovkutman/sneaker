@@ -1,0 +1,62 @@
+.kross2 {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+    align-items: center;
+
+    img {
+        margin: 20px 0;
+        padding: 0px 82px;
+    }
+    .hearts {
+        position: relative;
+        top: 70px;
+        left: 40px;
+        margin: 0;
+        padding: 0;
+    }
+
+   p {
+    width: 200px;
+    font-family: 'Inter', sans-serif;
+    font-style: normal;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-align: center;
+    padding-left: 50px;
+   }
+   h5 {
+    padding-left: 30px;
+    font-size: 17px;
+   }
+   
+.cross{
+    background: #FFFFFF;
+    border: 1px solid #F3F3F3;
+    border-radius: 40px;
+    margin-top: 50px;
+    width: 300px;
+    height: 360px;
+    transition: all .5s ease;
+    cursor: pointer;
+
+    &:hover {
+        transform: scale(1.1);
+        box-shadow: 0px 14px 30px rgba(0, 0, 0, 0.05);
+        
+    }
+}    
+b {
+    font-weight: 400;
+    position: relative;
+    top: 20px;
+    left: 28px;
+    color: #BDBDBD;
+}
+.plus {
+    position: relative;
+    bottom: 80px;
+    left: 100px;
+}
+}

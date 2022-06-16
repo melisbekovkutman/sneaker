@@ -1,0 +1,23 @@
+.basket {
+    display: flex;
+    justify-content: center;
+    align-items:center ;
+    flex-direction: column;
+    padding: 240px;
+   
+span {
+    text-align: center;
+    opacity: 0.4;
+    line-height: 24px;
+}
+button {
+    margin: 58px 0;
+    padding: 17px 60px;
+    background: #9DD458;
+    border-radius: 18px;
+    border: none;
+    color: #FFFFFF;
+    font-size: 18px;
+    cursor: pointer;
+}
+}

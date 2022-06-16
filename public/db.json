@@ -1,0 +1,99 @@
+[
+    {
+        "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "id": "1",
+        "price": 12999,
+        "image": "../image/kross1.svg",
+        "img": "./img/hearts.svg",
+        "plus": "./plus/plus.svg"
+    
+    },
+    {
+        "name": "Мужские Кроссовки Nike Air Max 270",
+        "id": "2",
+        "price": 12999,
+        "image":"../image/kross.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus2.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "id": "3",
+        "price": 8499,
+        "image":"../image/kross3.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Кроссовки Puma X Aka Boku Future Rider",
+        "id": "4",
+        "price": 8999,
+        "image":"../image/kross4.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Under Armour Curry 8",
+        "id": "5",
+        "price": 15199,
+        "image":"../image/kross5.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike Kyrie 7",
+        "id": "6",
+        "price": 11299,
+        "image":"../image/kross6.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Jordan Air Jordan 11",
+        "id": "7",
+        "price": 8999,
+        "image":"../image/kross7.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike LeBron XVIII",
+        "id": "8",
+        "price": 8999,
+        "image":"../image/kross8.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike Lebron XVIII Low",
+        "id": "9",
+        "price": 8999,
+        "image":"../image/kross9.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "id": "10",
+        "price": 8499,
+        "image":"../image/kross1.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "id": "10",
+        "price": 8499,
+        "image":"../image/kross4.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    },
+    {
+        "name": "Мужские Кроссовки Nike Blazer Mid Suede",
+        "id": "10",
+        "price": 8499,
+        "image":"../image/kross10.svg",
+        "img":"./img/hearts2.svg",
+        "plus":"./plus/plus.svg"
+    }
+]
